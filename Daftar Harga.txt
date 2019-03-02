@@ -1,0 +1,72 @@
+ <div class="konten bg-abuabu box">
+<center>  <h2 class="tebal">DAFTAR HARGA SEWA MOBIL JAKARTA</h2></center>
+<table id="customers">
+  <tr>
+    <th>Jenis Kendaraan</th>
+    <th>Lama Sewa 12 Jam ( Area Jakarta )</th>
+    <th>Lama Sewa 24 Jam ( Area Jakarta )</th>
+    <th>Luar Jakarta</th>
+  </tr>
+  <tr>
+    <td>Toyota Grand New Innova 2015</td>
+    <td>350,000</td>
+    <td>450,000</td>
+    <td><a class="btn2 btn-kecil btn-merah" href="https://api.whatsapp.com/send?phone=6281294381600&text=Hallo Admin Saya Tertarik Dengan Landing Page Sewa Mobilnya">Hubungi Admin</a></td>
+  </tr>
+  <tr>
+    <td>Toyota Grand New Innova 2015</td>
+    <td>350,000</td>
+    <td>450,000</td>
+    <td><a class="btn2 btn-kecil btn-merah" href="https://api.whatsapp.com/send?phone=6281294381600&text=Hallo Admin Saya Tertarik Dengan Landing Page Sewa Mobilnya">Hubungi Admin</a></td>
+  </tr>
+  <tr>
+    <td>Toyota Grand New Innova 2015</td>
+    <td>350,000</td>
+    <td>450,000</td>
+    <td><a class="btn2 btn-kecil btn-merah" href="https://api.whatsapp.com/send?phone=6281294381600&text=Hallo Admin Saya Tertarik Dengan Landing Page Sewa Mobilnya">Hubungi Admin</a></td>
+  </tr>
+  <tr>
+    <td>Toyota Grand New Innova 2015</td>
+    <td>350,000</td>
+    <td>450,000</td>
+    <td><a class="btn2 btn-kecil btn-merah" href="https://api.whatsapp.com/send?phone=6281294381600&text=Hallo Admin Saya Tertarik Dengan Landing Page Sewa Mobilnya">Hubungi Admin</a></td>
+  </tr>
+  <tr>
+    <td>Toyota Grand New Innova 2015</td>
+    <td>350,000</td>
+    <td>450,000</td>
+    <td><a class="btn2 btn-kecil btn-merah" href="https://api.whatsapp.com/send?phone=6281294381600&text=Hallo Admin Saya Tertarik Dengan Landing Page Sewa Mobilnya">Hubungi Admin</a></td>
+  </tr>
+  <tr>
+    <td>Toyota Grand New Innova 2015</td>
+    <td>350,000</td>
+    <td>450,000</td>
+    <td><a class="btn2 btn-kecil btn-merah" href="https://api.whatsapp.com/send?phone=6281294381600&text=Hallo Admin Saya Tertarik Dengan Landing Page Sewa Mobilnya">Hubungi Admin</a></td>
+  </tr>
+  <tr>
+    <td>Toyota Grand New Innova 2015</td>
+    <td>350,000</td>
+    <td>450,000</td>
+    <td><a class="btn2 btn-kecil btn-merah" href="https://api.whatsapp.com/send?phone=6281294381600&text=Hallo Admin Saya Tertarik Dengan Landing Page Sewa Mobilnya">Hubungi Admin</a></td>
+  </tr>
+  <tr>
+    <td>Toyota Grand New Innova 2015</td>
+    <td>350,000</td>
+    <td>450,000</td>
+    <td><a class="btn2 btn-kecil btn-merah" href="https://api.whatsapp.com/send?phone=6281294381600&text=Hallo Admin Saya Tertarik Dengan Landing Page Sewa Mobilnya">Hubungi Admin</a></td>
+  </tr>
+  <tr>
+    <td>Toyota Grand New Innova 2015</td>
+    <td>350,000</td>
+    <td>450,000</td>
+    <td><a class="btn2 btn-kecil btn-merah" href="https://api.whatsapp.com/send?phone=6281294381600&text=Hallo Admin Saya Tertarik Dengan Landing Page Sewa Mobilnya">Hubungi Admin</a></td>
+  </tr>
+  <tr>
+    <td>Toyota Grand New Innova 2015</td>
+    <td>350,000</td>
+    <td>450,000</td>
+    <td><a class="btn2 btn-kecil btn-merah" href="https://api.whatsapp.com/send?phone=6281294381600&text=Hallo Admin Saya Tertarik Dengan Landing Page Sewa Mobilnya">Hubungi Admin</a></td>
+  </tr>
+</table>
+</div>
+</div>
